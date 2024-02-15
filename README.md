@@ -27,7 +27,7 @@ pip install requests getuseragent
 
 ```
 ```bash
-python apple_id_checker.py
+python3 apple_id_checker.py
 ```
 ## Using
 [+] Combo List Path : list.txt
